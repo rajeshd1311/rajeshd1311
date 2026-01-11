@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Rajesh 👋
 
-<!--
-**rajeshd1311/rajeshd1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Product Manager | AI & Platforms | Healthtech & Fintech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- Senior Product Manager @ The Cigna Group based in Hyderabad, India.
+- Building and scaling **AI-driven platforms** in healthtech and fintech.
+- Learning through building AI agents, RAG, and platforms.
+
+## What I'm working on
+
+- AI agents for product workflows (discovery, research, documentation).
+- No-code/low-code experiments with Lovable, Replit, and Supabase.
+- Content on LinkedIn about AI product management and strategy.
+
+## Skills & tools
+
+- Product: Data and AI strategy, AI Agents, Roadmapping, Discovery, GTM.
+- Tech: AI/ML, LLMs, RAG, APIs, data platforms.
+- Tools: GitHub, OpenAI, Supabase, Google Cloud, Miro, Notion, Lovable, Replit, Cursor.
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/rajesh-dutta-aipm1311/
+- Email: mail.rajeshd1311@gmail.com
