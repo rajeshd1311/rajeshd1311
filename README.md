@@ -6,7 +6,7 @@ Senior AI Product Manager | AI & Platforms | Healthtech & Fintech
 
 ## About me
 
-- Senior Product Manager @ The Cigna Group based in Hyderabad, India.
+- Senior AI Product Manager @ The Cigna Group based in Hyderabad, India.
 - Building and scaling **AI-driven platforms** in healthtech and fintech.
 - Learning through building AI agents, RAG, and platforms.
 
