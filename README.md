@@ -1,6 +1,6 @@
 ## Hi there, I'm Rajesh 👋
 
-Senior Product Manager | AI & Platforms | Healthtech & Fintech
+Senior AI Product Manager | AI & Platforms | Healthtech & Fintech
 
 ---
 
